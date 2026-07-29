@@ -1,0 +1,7 @@
+interface:
+  display_name: "ProjectPlanning"
+  short_description: "Ultra-grade production planning with locked gates"
+  default_prompt: "Use $project-planning to create a complete, implementation-locked production plan for my project."
+
+policy:
+  allow_implicit_invocation: false
