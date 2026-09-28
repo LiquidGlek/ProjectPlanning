@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "canvas": {
+      "command": "uv",
+      "args": ["run", "--quiet", "--script", "${CLAUDE_PLUGIN_ROOT}/server/claude_draw_server.py"],
+      "env": {
+        "CLAUDE_DRAW_HOME": "${CLAUDE_PROJECT_DIR}/.claude-draw",
+        "CLAUDE_DRAW_PROJECT_DIR": "${CLAUDE_PROJECT_DIR}"
+      }
+    }
+  }
+}

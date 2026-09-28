@@ -1,0 +1,14 @@
+{
+  "name": "liquidglek-plugins",
+  "description": "LiquidGlek's Claude Code plugins",
+  "owner": {
+    "name": "LiquidGlek"
+  },
+  "plugins": [
+    {
+      "name": "claude-draw",
+      "source": "./claude-draw",
+      "description": "Hand-drawn game art: local deterministic canvas + MCP tools + drawing skill, with inspection after every step and replayable trajectories."
+    }
+  ]
+}

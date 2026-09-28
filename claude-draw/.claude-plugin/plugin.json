@@ -1,0 +1,18 @@
+{
+  "name": "claude-draw",
+  "displayName": "Claude Draw",
+  "version": "0.1.0",
+  "description": "Hand-drawn game art for Claude: a local deterministic canvas (pixel art first) driven by explicit, inspected drawing actions, with a replayable trajectory log. No image-generation models.",
+  "author": {
+    "name": "LiquidGlek"
+  },
+  "repository": "https://github.com/LiquidGlek/ProjectPlanning",
+  "keywords": [
+    "pixel-art",
+    "sprites",
+    "drawing",
+    "game-art",
+    "mcp",
+    "canvas"
+  ]
+}
