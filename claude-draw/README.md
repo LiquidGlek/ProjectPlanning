@@ -12,6 +12,12 @@ come next; see [Roadmap](#roadmap).
 *16x16 sprite drawn step by step through the MCP tools from
 [`examples/reference/mushroom_ref.png`](examples/reference/mushroom_ref.png).*
 
+![progression](examples/mushroom16_progression.png)
+
+*Frames from the logged session ([`examples/sessions/mushroom16`](examples/sessions/mushroom16)). Step 6 is a
+surgical correction: at sprite size, the eyes touching the band outline read as drips, so they were moved
+down 1px with two pixel actions.*
+
 ## What's in the plugin
 
 | Component | Path | Purpose |
